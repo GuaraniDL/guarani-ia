@@ -1,7 +1,20 @@
 # Detección de Objetos al Guaraní 
+## Entrenamiento basado en TensorFlow Lite usando Arquitecturas EfficienDet
 
-Entrenamiento basado en Tensor Flow Lite usando Arquitecturas Efficiendet
+**Link de para descarga de cojunto de datos** : https://drive.google.com/file/d/13-JjBnEnymCwTHlAzenVP5Tzmz6Yv5JQ/view?usp=sharing
+***anotaciónes_windows.csv:*** archivo de anotaciones del conjunto de datos  para entornos windows    
+***anotaci+ones_linux.csv :*** archivo de anotaciones del conjunto de datos para entorono linux.     
+En la carpeta ***modelos*** se encuentran disponibles  los archivos **.tflite** con la variación de todas las  arquitecturas.   
+### Estos modelos fueron entrenados con los  siguientes parametros:
 
-Link de para descarga de cojunto de datos : https://drive.google.com/file/d/13-JjBnEnymCwTHlAzenVP5Tzmz6Yv5JQ/view?usp=sharing
-anotaciones_windows.csv: archivo de anotaciones del conjunto de datos  para entornos windows.
-anotaciones_linux.csv : archivo de anotaciones del conjunto de datos para entorono linux.
+**Cantidad de Objetos : 10**
+
+**Conjunto de Datos por Objeto:**  
+*Entrenamiento :*  **160**                                      
+*Validación    :*   **20**    
+*Prueba        :*   **20**   
+**Total         :  200** 
+                              
+**Tamaño de datos para Entrenamiento : 8bytes**   
+**Numero de Épocas : 100 Épocas**
+                              
