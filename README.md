@@ -3,7 +3,7 @@
 
 **Link de para descarga de cojunto de datos** : https://drive.google.com/file/d/13-JjBnEnymCwTHlAzenVP5Tzmz6Yv5JQ/view?usp=sharing
 ***anotaciónes_windows.csv:*** archivo de anotaciones del conjunto de datos  para entornos windows    
-***anotaci+ones_linux.csv :*** archivo de anotaciones del conjunto de datos para entorono linux.     
+***anotaciónes_linux.csv :*** archivo de anotaciones del conjunto de datos para entorono linux.     
 En la carpeta ***modelos*** se encuentran disponibles  los archivos **.tflite** con la variación de todas las  arquitecturas.   
 ### Estos modelos fueron entrenados con los  siguientes parametros:
 
