@@ -1,5 +1,5 @@
-Conjunto de dartos usado para etrenamiento de 200 imagenes por objeto
-usas con archivo de anotaciones:
+Conjunto de datos usado para entrenamiento de 200 imagenes por objeto
+usar con archivo de anotaciones:
 anotaciones_linux.csv
 anotaciones_windows.csv
 
