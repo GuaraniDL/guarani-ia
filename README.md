@@ -21,7 +21,11 @@ En la carpeta ***modelos*** se encuentran disponibles  los archivos **.tflite** 
                               
 ## Herramientas utilizadas  para creación del metodo de desarrollo
 **LabelImg : para etiquetado de datos**
+
 **Anaconda Promp : para gestion de entornos de trabajo**
-**Jupyter Notebook : ejecucion de scripts **
-**Python : lenguaje de entrenamiento **
+
+**Jupyter Notebook : ejecucion de scripts**
+
+**Python : lenguaje de entrenamiento**
+
 **TensorFlow : libreria de IA**
